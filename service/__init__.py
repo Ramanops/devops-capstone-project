@@ -11,7 +11,7 @@ from service.common import log_handlers
 from flask_talisman import Talisma
 
 # Create Flask application
-alisman = Talisman(app)
+talisma = Talisman(app)
 app = Flask(__name__)
 app.config.from_object(config)
 
