@@ -1,3 +1,12 @@
+---
+name: user-story
+about: create user story
+title: ''
+labels: enhancement
+assignees: Ramanops
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
